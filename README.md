@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a Netflix clone built using React for the frontend and Firebase for backend services. The frontend uses Tailwind CSS for styling, providing a modern and responsive user interface. The application features user authentication and uses Firestore as the database for managing user data and content.
+This project is a Netflix clone built using React for the frontend and Firebase for backend services. The frontend uses Tailwind CSS for styling, providing a modern and responsive user interface. The application features user authentication and uses Firestore as the database for managing user data and content. It is deployed and hosted on Firebase Hosting.
 
 ## Screenshots
 
